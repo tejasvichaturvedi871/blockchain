@@ -42,9 +42,10 @@
 ![430856293-015216ac-1931-407c-a698-238a237f2c91](https://github.com/user-attachments/assets/88cce6d3-829c-46fa-b518-c5707e6fe9de)
 
 **in the above we need to select our network and add our public key then click on recieve.
-you will get some test tokens...**
+you will get some test tokens...*
+![Image](https://github.com/user-attachments/assets/3f24835b-2ec2-4677-844d-236e8cea859b)
 
-![Screenshot (156)](https://github.com/user-attachments/assets/707491b9-02e2-4f3f-8d55-46d95eba18a0)
+![image](https://github.com/user-attachments/assets/3b2bcc03-8964-4de5-b989-0fafc31e5b02)
 
 
 **Now if we want to send money,we can di it by....**
