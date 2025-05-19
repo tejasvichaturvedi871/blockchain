@@ -84,3 +84,15 @@ contract SimpleStorage {
 
 ![Screenshot 2025-05-18 113656](https://github.com/user-attachments/assets/845c852b-ffd0-41ae-b8d9-dd8ca72a3a10)
 
+## Question:
+Create a voting system with multiple candidates. Each address can vote only once.
+
+Write a contract that manages a list of student records (name, roll number). Allow adding and retrieving student data.
+
+Develop a contract that only allows the deployer (owner) to call a specific function (use modifiers).
+
+Write a contract where people can donate Ether and the top 3 donors are tracked.
+
+Implement a simple auction system where users can place bids, and the highest bidder wins.
+
+Create a contract that splits incoming Ether between 3 fixed addresses.
