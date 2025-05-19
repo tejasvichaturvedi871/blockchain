@@ -58,31 +58,6 @@ steps :-
 
 ![Screenshot 2025-05-18 114112](https://github.com/user-attachments/assets/356ca2a8-a0ea-44e6-ab7c-95af1422c5d3)
 
-6.Deploy using Deploy & Run Transactions plugin
-7. then copy the transaction address and go and paste it on etherscan and done with it .
-
-## code  
-``` 
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
-
-contract SimpleStorage {
-    uint storedData;
-    
-    function set(uint x) public {
-        storedData = x;
-    }
-    
-    function get() public view returns (uint) {
-        return storedData;
-    }
-}
-``` 
-
-
-![Image](https://github.com/user-attachments/assets/e7afc484-4217-4d7d-9534-6288594abb9a)
-
-![Screenshot 2025-05-18 113656](https://github.com/user-attachments/assets/845c852b-ffd0-41ae-b8d9-dd8ca72a3a10)
 
 ## Question:
 1-Create a voting system with multiple candidates. Each address can vote only once.
